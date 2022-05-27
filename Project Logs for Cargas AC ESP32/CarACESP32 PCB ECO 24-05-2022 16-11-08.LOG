@@ -1,0 +1,4 @@
+Change Physical Footprint: Designator=B3 Old Footprint=Buzzer New Footprint=Buzzer
+Change Physical Footprint: Designator=C5 Old Footprint=Capacitor 1206 New Footprint=Capacitor 1206
+Change Physical Footprint: Designator=IC1 Old Footprint=ESP32-WROVER-B New Footprint=ESP32-WROVER-B
+Change Physical Footprint: Designator=USB-C1 Old Footprint=USB-TYPE_C-16 New Footprint=USB-TYPE_C-16

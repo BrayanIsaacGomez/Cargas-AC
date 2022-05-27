@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetIC1_23 Pin=J1-SLEEVE
+Removed Pin From Net: NetName=NetC7_1 Pin=J1-TIP
+Removed Member From Class: ClassName=CarACESP32_2 Member=J1
+Change Component Footprint: Designator=J1 Old Footprint=AUDIO-JACK-KIT New Footprint=CON MIC2
+Change Component Comment : Designator=J1 Old Comment= New Comment=AUDIO MIC BLACK HEADER
+Change component parameters: Designator = "J1" ("J1"); Footprint = "AUDIO-JACK-KIT"; UniqueID = "\UXWMQLCC" ("\UXWMQLCC")
+Change component parameters (AddParameter): Name = "Category"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector type"; Value = "AUDIO BLACK HEADER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "Production"; VariantName = "[No Variations]"
+Added Component: Designator=J2(CON MIC2)
+Add component (AddParameter): Name = "Category"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector type"; Value = "AUDIO BLACK HEADER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Production"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC1_23 Pin=J2-1
+Added Pin To Net: NetName=NetIC1_23 Pin=J2-1
+Added Pin To Net: NetName=NetC7_1 Pin=J2-3
+Added Pin To Net: NetName=NetC7_1 Pin=J2-3
+Added Member To Class: ClassName=CarACESP32 Member=Component J1 AUDIO MIC BLACK HEADER
+Added Member To Class: ClassName=CarACESP32_2 Member=Component J2 AUDIO MIC BLACK HEADER
+Added Room: Name=CarACESP32
+Added Room: Name=CarACESP32_2

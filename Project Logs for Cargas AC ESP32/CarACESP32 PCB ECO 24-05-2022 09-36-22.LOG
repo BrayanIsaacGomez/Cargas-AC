@@ -1,0 +1,11 @@
+Change Physical Footprint: Designator=H4 Old Footprint=TBLOCK-2ORANGE New Footprint=TBLOCK-2ORANGE
+Change Physical Footprint: Designator=IC1 Old Footprint=ESP32-WROVER-B New Footprint=ESP32-WROVER-B
+Change Physical Footprint: Designator=L4 Old Footprint=WS2812B New Footprint=WS2812B
+Change Physical Footprint: Designator=R9 Old Footprint=Resistencia 1206 New Footprint=Resistencia 1206
+Change Physical Footprint: Designator=R10 Old Footprint=Resistencia 1206 New Footprint=Resistencia 1206
+Change Physical Footprint: Designator=R15 Old Footprint=Resistencia 1206 New Footprint=Resistencia 1206
+Change Physical Footprint: Designator=R17 Old Footprint=Resistencia 1206 New Footprint=Resistencia 1206
+Change Physical Footprint: Designator=R21 Old Footprint=Resistencia 1206 New Footprint=Resistencia 1206
+Change Physical Footprint: Designator=R23 Old Footprint=Resistencia 1206 New Footprint=Resistencia 1206
+Change Physical Footprint: Designator=U1 Old Footprint=SOIC 16 New Footprint=SOIC 16
+Change Physical Footprint: Designator=USB-C1 Old Footprint=USB-TYPE_C-16 New Footprint=USB-TYPE_C-16

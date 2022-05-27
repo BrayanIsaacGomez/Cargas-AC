@@ -1,0 +1,17 @@
+Added Component: Designator=T4(SOT23_M)
+Added Component: Designator=T5(SOT23_M)
+Added Component: Designator=T6(SOT23_M)
+Added Pin To Net: NetName=NetR18_1 Pin=T4-1
+Added Pin To Net: NetName=GND Pin=T4-2
+Added Pin To Net: NetName=NetD1_1 Pin=T4-3
+Added Pin To Net: NetName=NetR22_1 Pin=T5-1
+Added Pin To Net: NetName=GND Pin=T5-2
+Added Pin To Net: NetName=NetD2_1 Pin=T5-3
+Added Pin To Net: NetName=NetR24_1 Pin=T6-1
+Added Pin To Net: NetName=GND Pin=T6-2
+Added Pin To Net: NetName=NetD3_1 Pin=T6-3
+Added Member To Class: ClassName=CarACESP32_2 Member=Component T4 2N3904
+Added Member To Class: ClassName=CarACESP32_2 Member=Component T5 2N3904
+Added Member To Class: ClassName=CarACESP32_2 Member=Component T6 2N3904
+Added Room: Name=CarACESP32
+Added Room: Name=CarACESP32_2

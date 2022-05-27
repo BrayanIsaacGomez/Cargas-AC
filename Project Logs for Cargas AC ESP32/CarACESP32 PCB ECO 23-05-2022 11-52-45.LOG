@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetH1_2 Pin=RL1-5
+Removed Pin From Net: NetName=NetH3_2 Pin=RL2-5
+Removed Pin From Net: NetName=NetH4_2 Pin=RL3-5
+Added Pin To Net: NetName=NetH1_2 Pin=RL1-4
+Added Pin To Net: NetName=NetH3_2 Pin=RL2-4
+Added Pin To Net: NetName=NetH4_2 Pin=RL3-4
+Added Room: Name=CarACESP32
+Added Room: Name=CarACESP32_2
