@@ -16,6 +16,10 @@ El dispositivo contiene:
 
 # ¿Qué podemos hacer?
 
+Desplegar la información por medio de la plataforma Arduino IoT Cloud usando conexión Wifi, donde podremos obtener
+la temperatura, el voltaje y corriente de las cargas que vayanis a conectar en nuestra PCB, desde la misma plataforma
+podremoos controlar las cargas AC utilizando sus Relay, por ello utilizando el buzzer y el Led NeoPixel que actuaran
+como indicadores para las aplicaciones.
 
 
 
