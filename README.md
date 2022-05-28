@@ -46,7 +46,6 @@ El dispositivo contiene:
 | Referencia | WS2812B |
 | -------- | ----- |
 |  ESP32   |  SD3  |
-| SDA IO23 | SDA IO23 |
 |    5V    | VCC   |
 |   GND    |  GND  |
 
