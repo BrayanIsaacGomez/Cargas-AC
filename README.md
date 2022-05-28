@@ -42,11 +42,14 @@ El dispositivo contiene:
 
 
 ### LED Neopixel - Comunicación SPI
-Referencia --- | WS2812B | 
-ESP32            |   SD3   |
-5V | VCC 
 
-GND | GND
+| Referencia | WS2812B |
+| -------- | ----- |
+|  ESP32   |  SD3  |
+| SDA IO23 | SDA IO23 |
+|    5V    | VCC   |
+|   GND    |  GND  |
+
 
 
 ### Control Cargas AC 
