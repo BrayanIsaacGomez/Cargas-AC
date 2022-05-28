@@ -51,10 +51,14 @@ El dispositivo contiene:
 
 
 
-### Control Cargas AC 
-Referencia --- | SCT 013 | --- | Voltaje AC |
-ESP32          |  IO15   | --- |     IO2    |
-               | ADC2_2  | --- |   ADC2_3   |
+### Monitoreo Cargas AC 
+
+| Referencia   | SCT 013  | Voltaje AC | 
+| :---         |   :---:  |  ---:      |
+| ESP32        |    IO15  |    IO2     |
+|              |   ADC2_2 |  ADC2_3    |
+
+               
 # Licencia
 
 Hardware License: CERN OHL v1.0 para más información visitar el siguiente [Link][CERN_v1].
