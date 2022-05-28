@@ -15,6 +15,7 @@ El dispositivo contiene:
 
 # ¿Cómo funciona?
 
+Funciona por medio de un microcontrolador ESP32 el cual posee conectividad WiFi y Bluetooth, el cual puede ser programado con difentes lenguajes de programación como C, C++ , en este caso se utilizó Arduino 
 
 
 # ¿Qué podemos hacer?
