@@ -28,14 +28,11 @@ El dispositivo contiene:
 |              | SCL IO23 | SDA IO23 |
 
 
+| SSD 1306 | SHT30 |
+| -------- | ----- |
+| SCL IO22 | SCL IO22 |
+| SDA IO23 | SDA IO23 |
 
-### Pantalla OLED SSD 1306, Temperatura y Humedad – Comunicación I2C
-                | SSD 1306 | --- | SHT30 |
-ESP32           | SCL IO22 | --- | SCL IO22 |
-----------------| -------- |---- | -------- |
-| SSD 1306 | ---| SHT30 | 
-| SCL IO22 | -- | SCL IO22 |
-| SDA IO23 | -- | SDA IO23 |
 
 ### Control Cargas AC 
                  | CARGA 1 |  ---| CARGA 2 | ---|  CARGA 3 | 
