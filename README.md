@@ -35,8 +35,11 @@ El dispositivo contiene:
 
 
 ### Control Cargas AC 
-                 | CARGA 1 |  ---| CARGA 2 | ---|  CARGA 3 | 
-| ESP32          |  IO25   | --- |  IO26  | --- |  IO27    | 
+
+| Referencia   | Carga 1 | Carga 2 | Carga 3 |
+| :---         |    :---:|    ---: | ---:    |
+| ESP32        |  IO25   |  IO26   |  IO27   |
+
 
 ### LED Neopixel - Comunicación SPI
 Referencia --- | WS2812B | 
