@@ -1,5 +1,8 @@
 # Cargas-AC
-PCB capaz de controlar el modo ON/OFF de 3 cargas AC, estimar el consumo de voltaje y corriente AC de una de las cargas
+
+Este dispositivo fue diseñado como proyecto final de curso aplicando IOT (Internet de las Cosas), donde podremos controlar
+en modo ON/OFF de 3 cargas AC, para poder ver el voltaje y corriente AC de una de las cargas mientras lo monitoreamos desde
+Arduino IoT Cloud para tener datos en tiempo real.
 
 El dispositivo contiene:
 
