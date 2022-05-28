@@ -1,0 +1,9 @@
+Added Component: Designator=J1(PJ-3136-X)
+Added Pin To Net: NetName=NetIC1_23 Pin=J1-1
+Added Pin To Net: NetName=NetIC1_23 Pin=J1-1
+Added Pin To Net: NetName=NetC7_1 Pin=J1-3
+Added Pin To Net: NetName=NetC7_1 Pin=J1-3
+Added Member To Class: ClassName=CarACESP32_2 Member=Component J1 PJ-3136
+Added Member To Class: ClassName=CarACESP32 Member=Component L3 SSD 1306
+Added Room: Name=CarACESP32
+Added Room: Name=CarACESP32_2
