@@ -8,6 +8,7 @@ El dispositivo contiene:
 - Buzzer
 - SHT30
 - Control de cargas AC
+- Pantalla OLED
 
 # ¿Cómo funciona?
 
