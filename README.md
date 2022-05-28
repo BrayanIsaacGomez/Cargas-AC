@@ -57,7 +57,11 @@ como indicadores para las aplicaciones.
 |    5V    |  VCC  |
 |   GND    |  GND  |
 
+### Buzzer 
 
+| Referencia   | Buzzer   | 
+| :---         |   :---:  |  ---:    |
+| ESP32        |    IO 5  |          |
 
 ### Monitoreo Cargas AC 
 
