@@ -28,10 +28,10 @@ El dispositivo contiene:
 
 
 ### Pantalla OLED SSD 1306, Temperatura y Humedad – Comunicación I2C
-Referencia ---   | SSD 1306 | --- | SHT30 |
-ESP32            | SCL IO22 | --- | SCL IO22 |
----------------- | -------- |---- | -------- |
-| SSD 1306| --- | SHT30 | 
+                | SSD 1306 | --- | SHT30 |
+ESP32           | SCL IO22 | --- | SCL IO22 |
+----------------| -------- |---- | -------- |
+| SSD 1306 | ---| SHT30 | 
 | SCL IO22 | -- | SCL IO22 |
 | SDA IO23 | -- | SDA IO23 |
 
