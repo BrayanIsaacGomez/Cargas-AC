@@ -20,6 +20,13 @@ El dispositivo contiene:
 
 # Descripción de pines 
 
+#Pantalla OLED SSD 1306, Temperatura y Humedad – Comunicación I2C
+
+REFERENCIA	SSD 1306	SHT30
+ESP32	      SCL IO22	SCL IO22
+	          SDA IO23  SDA IO23
+
+
 ### Pantalla OLED SSD 1306, Temperatura y Humedad – Comunicación I2C
 Referencia ---   | SSD 1306 | --- | SHT30 |
 ESP32            | SCL IO22 | --- | SCL IO22 |
