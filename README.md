@@ -38,7 +38,7 @@ El dispositivo contiene:
 
 | Referencia   | Carga 1 | Carga 2 | Carga 3 |
 | :---         |    :---:|    ---: | ---:    |
-| ESP32        |  IO25   |  IO26   |  IO27   |
+| ESP32        |  IO25   |  IO26   |   IO27  |
 
 
 ### LED Neopixel - Comunicación SPI
@@ -46,7 +46,7 @@ El dispositivo contiene:
 | Referencia | WS2812B |
 | -------- | ----- |
 |  ESP32   |  SD3  |
-|    5V    | VCC   |
+|    5V    |  VCC  |
 |   GND    |  GND  |
 
 
@@ -56,7 +56,7 @@ El dispositivo contiene:
 | Referencia   | SCT 013  | Voltaje AC | 
 | :---         |   :---:  |  ---:      |
 | ESP32        |    IO15  |    IO2     |
-|              |   ADC2_2 |  ADC2_3    |
+|              |   ADC2_2 | ADC2_3     |
 
                
 # Licencia
