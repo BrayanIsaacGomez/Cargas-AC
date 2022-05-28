@@ -59,9 +59,9 @@ como indicadores para las aplicaciones.
 
 ### Buzzer 
 
-| Referencia   | Buzzer   | 
-| :---         |   :---:  |  ---:    |
-| ESP32        |    IO 5  |          |
+| Referencia   |  Buzzer | 
+| :---         |   :---: |
+| ESP32        |    IO5  |        
 
 ### Monitoreo Cargas AC 
 
