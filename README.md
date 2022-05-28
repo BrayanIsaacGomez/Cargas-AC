@@ -29,8 +29,8 @@ ESP32            | SCL IO22 | --- | SCL IO22 |
 | SDA IO23 | -- | SDA IO23 |
 
 ### Control Cargas AC 
-                  CARGA 1   ---  CARGA 2   ---   CARGA 3 
-ESP32          |  IO25   | --- |  IO26   | --- |  IO27   | 
+                 | CARGA 1 |  ---| CARGA 2 | ---|  CARGA 3 | 
+| ESP32          |  IO25   | --- |  IO26  | --- |  IO27    | 
 
 ### LED Neopixel - Comunicación SPI
 Referencia --- | WS2812B | 
