@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\My Altium\Proyectos Alitum\Cargas AC ESP32\CarACESP32.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=caracesp32-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=caracesp32-slotholes.txt|DrillLayers=gtl,gbl
