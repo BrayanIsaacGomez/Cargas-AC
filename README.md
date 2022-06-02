@@ -1,4 +1,8 @@
+
 # Cargas-AC
+
+![](/img/GT000010.svg)
+
 
 Este dispositivo fue diseñado como proyecto final de curso aplicando IOT (Internet de las Cosas), donde podremos controlar
 en modo ON/OFF de 3 cargas AC, para poder ver el voltaje y corriente AC de una de las cargas mientras lo monitoreamos desde
