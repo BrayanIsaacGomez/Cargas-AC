@@ -1,7 +1,7 @@
 
 # Cargas-AC
 
-![](/img/GT000010.svg)
+![](/Img/GT000010.svg)
 
 
 Este dispositivo fue diseñado como proyecto final de curso aplicando IOT (Internet de las Cosas), donde podremos controlar
